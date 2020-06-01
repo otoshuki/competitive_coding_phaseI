@@ -1,0 +1,52 @@
+Phase I - June
+Phase II - July
+Phase III - August - September
+Phase IV - October - November - December
+
+Phase I details -
+
+Week I -  Codechef - BEG - 5,10,15,20 Q
+          G4G -
+Week II - Codechef - EAS - 5,10,15,20 Q
+          G4G -
+Week III -Codechef - EAS - 25,30,35,40 Q
+          G4G -
+Week IV - Codechef - MED - 5,10 Q
+          G4G -
+
+Phase II details -
+
+Week I -  Codechef - MED - 15,20 Q
+          G4G -
+Week II - Codechef - MED - 25,30 Q
+          G4G -
+Week III -Codechef - MED - 35,40 Q
+          G4G -
+Week IV - Codechef - HAR - 5 Q
+          G4G -
+
+Phase III details -
+
+Week I -  Codechef - HAR - 10 Q
+          G4G -
+Week II - Codechef - HAR - 15 Q
+          G4G -
+Week III -Codechef - HAR - 20 Q
+          G4G -
+Week IV - Codechef - HAR - 25 Q
+          G4G -
+Week V -  Codechef - HAR - 30 Q
+          G4G -
+Week VI - Codechef - HAR - 35 Q
+          G4G -
+Week VII -Codechef - HAR - 40 Q
+          G4G -
+Week VIII-Codechef - Contest
+          G4G -
+
+Phase IV details -
+
+Week I -  Codechef - CHA - 5 Q - Contest
+Week II - Codechef - CHA - 10 Q - Contest
+Week III -Codechef - CHA - 15 Q - Contest
+Week IV - Codechef - CHA - 20 Q - Contest
